@@ -10,5 +10,8 @@
 
 [这里][js例子].
 
+这个例子是基于tinygo项目,所以没测试到,
+不过基于wasm,js和Go之间是可以相互调用函数的.
+
 [go例子]: https://webassembly.org/getting-started/developers-guide/
 [js例子]: https://tinygo.org/webassembly/webassembly/
